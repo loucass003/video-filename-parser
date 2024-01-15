@@ -4,7 +4,6 @@
   "description": "A radarr style release name parser",
   "author": "Scott Cooper <scttcper@gmail.com>",
   "license": "MIT",
-  "type": "module",
   "exports": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "files": [
