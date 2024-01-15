@@ -20,8 +20,6 @@
     "sonarr"
   ],
   "scripts": {
-    "demo:build": "npm run build --workspace=demo",
-    "demo:watch": "npm run dev --workspace=demo",
     "lint": "eslint --ext .js,.ts, .",
     "lint:fix": "eslint --fix --ext .js,.ts, .",
     "prepare": "npm run build",
